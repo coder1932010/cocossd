@@ -1,0 +1,23 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+a{
+    font-size: 25px;
+    width: 400px;
+    background-color: white;
+    color: black;
+    border-radius: 40px !important;
+}
